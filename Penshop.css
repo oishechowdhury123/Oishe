@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+.navber{
+    padding:10px;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
